@@ -1,0 +1,7 @@
+Git Daily Workflow
+
+1. Modify project files.
+2. Stage changes using git add.
+3. Commit changes using git commit.
+4. Push commits using git push.
+5. Verify changes on GitHub.
